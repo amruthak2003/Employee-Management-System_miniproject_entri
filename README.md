@@ -33,6 +33,7 @@ This project is a command-line based Employee Management System developed using 
 - database.db : SQLite database
 - screenshots/ : Output screenshots
 - documentation/ : Project report
-
+https://drive.google.com/file/d/1pLGSg73JEeN9TKuw5nGIcgnMqZFgSQbM/view?usp=sharing
 ## Author
 Amrutha K
+
